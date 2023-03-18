@@ -14,7 +14,7 @@ All credit for Eigen goes to the Eigen team. See their [project page](https://ei
 2. Add the zip file to your project
 3. Run `pros c fetch Eigen@version.zip; pros c apply Eigen@version` in the PROS integrated terminal
 
-### VEXcode
+#### VEXcode
 
 1. Download `Eigen-VEXCode@version.zip` from the [latest release](https://github.com/LemLib/Eigen/releases/latest)
 2. Extract the zip file
