@@ -6,13 +6,15 @@ This is a port of the Eigen library for the VEX V5. It is a header-only library,
 
 All credit for Eigen goes to the Eigen team. See their [project page](https://eigen.tuxfamily.org/index.php?title=Main_Page) for more information
 
-## Installation (PROS)
+## Installation
+
+#### PROS
 
 1. Download Eigen@version.zip from the latest release [latest release](github.com/LemLib/Eigen/releases/latest)
 2. Add the zip file to your project
 3. Run `pros c fetch Eigen@version.zip; pros c apply Eigen@version` in the PROS integrated terminal
 
-## Installation (VEXcode)
+### VEXcode
 
 1. Download Eigen_VEXCode@version.zip from the latest release [latest release](github.com/LemLib/Eigen/releases/latest)
 2. Extract the zip file
